@@ -181,14 +181,9 @@ Aplicação para centralização e consulta das informações de aniversariantes
 ### QA e Engenharia de Software
 
 * Testes funcionais
-* Testes de integração
 * Validação de requisitos
 * Casos de teste
 * Análise de requisitos
-* Cypress
-* Postman
-* JMeter
-* CI/CD
 
 ### Metodologias
 
@@ -252,7 +247,6 @@ Entre os testes e validações realizados estão:
 * Testes de entrada de dados
 * Testes de filtros e pesquisas
 * Testes de permissões
-* Testes de integração
 * Testes de fluxos automatizados
 * Validação de mensagens e notificações
 * Testes de cenários positivos e negativos
@@ -283,24 +277,6 @@ Cada projeto pode apresentar:
 
 ---
 
-# 🔐 Segurança e privacidade
-
-Os projetos apresentados neste repositório foram adaptados para fins de portfólio.
-
-Informações sensíveis ou institucionais não são disponibilizadas publicamente.
-
-Os exemplos podem utilizar:
-
-* Dados fictícios
-* Usuários anonimizados
-* Screenshots adaptados
-* Estruturas simplificadas
-* Exemplos de código
-
-Credenciais, tokens, chaves, informações pessoais e configurações internas não fazem parte deste repositório.
-
----
-
 # 📈 Objetivo do portfólio
 
 Este repositório tem como objetivo demonstrar minha experiência prática em:
@@ -308,14 +284,6 @@ Este repositório tem como objetivo demonstrar minha experiência prática em:
 **Gestão da Informação → Desenvolvimento → Automação → Testes → Documentação**
 
 Busco aplicar esses conhecimentos na criação de soluções que sejam não apenas funcionais, mas também **organizadas, testáveis, documentadas e orientadas às necessidades dos usuários e processos**.
-
----
-
-# 📫 Contato
-
-**LinkedIn:** [Meu LinkedIn](COLOQUE-SEU-LINK)
-
-**GitHub:** [Meu GitHub](COLOQUE-SEU-LINK)
 
 ---
 
