@@ -1,4 +1,4 @@
-# 🚀 Portfólio — Microsoft Power Platform
+# Portfólio — Microsoft Power Platform
 
 Bem-vindo ao meu portfólio de desenvolvimento de soluções utilizando **Microsoft Power Platform**.
 
