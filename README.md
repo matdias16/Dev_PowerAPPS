@@ -26,7 +26,7 @@ Tenho experiência com:
 * Gestão e organização de informações
 * Integração entre ferramentas do ecossistema Microsoft 365
 
-Atualmente, tenho direcionado minha carreira para áreas relacionadas a **QA/Testes de Software, Análise de Sistemas, Tecnologia e Cibersegurança**.
+Atualmente, tenho direcionado minha carreira para áreas relacionadas a Análise de Sistemas, Tecnologia e Cibersegurança**.
 
 ---
 
