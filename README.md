@@ -32,50 +32,6 @@ Atualmente, tenho direcionado minha carreira para áreas relacionadas a Análise
 
 # 📱 Projetos
 
-## 📦 Gerenciamento de Ativos
-
-Sistema desenvolvido para auxiliar no gerenciamento de ativos, controle de disponibilidade e processos de empréstimo de equipamentos.
-
-**Tecnologias:**
-
-`Power Apps` `SharePoint` `Power Automate`
-
-**Principais funcionalidades:**
-
-* Cadastro e consulta de ativos
-* Pesquisa e filtros
-* Controle de status
-* Controle de disponibilidade
-* Solicitação de empréstimos
-* Gerenciamento de empréstimos
-* Consulta das solicitações do usuário
-* Regras de negócio para controle dos ativos
-
-➡️ [Ver projeto](projetos/gerenciamento-ativos/)
-
----
-
-## 👥 Gestão de Colaboradores
-
-Aplicação desenvolvida para centralizar e facilitar o gerenciamento das informações relacionadas aos colaboradores.
-
-**Tecnologias:**
-
-`Power Apps` `SharePoint` `Power Automate`
-
-**Principais funcionalidades:**
-
-* Cadastro de colaboradores
-* Atualização de informações
-* Consulta de registros
-* Controle de status
-* Automatização de notificações
-* Organização centralizada das informações
-
-➡️ [Ver projeto](projetos/gestao-colaboradores/)
-
----
-
 ## 💰 Gestão de Diárias, Prestação e Ressarcimentos
 
 Solução desenvolvida para digitalização e organização do processo de solicitações relacionadas a diárias, prestações e ressarcimentos.
@@ -96,22 +52,6 @@ Solução desenvolvida para digitalização e organização do processo de solic
 ➡️ [Ver projeto](projetos/diarias-ressarcimentos/)
 
 ---
-
-## 📄 Controle de Ofícios
-
-Aplicação voltada ao gerenciamento e acompanhamento de documentos e registros relacionados a ofícios.
-
-**Tecnologias:**
-
-`Power Apps` `SharePoint` `Power Automate`
-
-➡️ [Ver projeto](projetos/controle-oficios/)
-
----
-
-## 🎒 Gerenciamento de Kits e Periféricos
-
-Solução para controle de kits, periféricos e disponibilidade de equipamentos.
 
 **Tecnologias:**
 
