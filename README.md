@@ -11,7 +11,7 @@ Sou bacharel em Gestão da Informação pela **UFPR**, curso pós-graduação em
 | [Gestão de diárias, prestação de contas e ressarcimentos](projetos/diarias-ressarcimentos/) | Registrar solicitações, reunir documentos e acompanhar o status com notificações automáticas. | Power Apps, SharePoint e Power Automate |
 | [Controle de kits e periféricos](projetos/controle-kits-perifericos/) | Cadastrar itens, consultar a disponibilidade, reservar equipamentos e registrar retiradas. | Power Apps e SharePoint |
 | [Orçamento de drone](projetos/orcamento-drone/) | Elaborar orçamentos e organizar informações sobre equipamentos e operações com drones. | Power Apps, SharePoint e Power Automate |
-| [Gestão de Pessoas](projetos/Gestao-de-Pessoas/) | Consultar em um só lugar as informações da movimentação do RH. | Power Apps e Sharepoint |
+| [Gestão de Pessoas](projetos/Gestao de Pessoas/) | Consultar em um só lugar as informações da movimentação do RH. | Power Apps e Sharepoint |
 
 ## Aplicativos que desenvolvi no LAGEAMB
 
