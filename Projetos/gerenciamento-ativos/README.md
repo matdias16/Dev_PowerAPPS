@@ -11,8 +11,3 @@ Replicação de edital para a criação de novos, Convocação de editais e Cont
 2. Os dados e documentos ficam organizados no SharePoint em listas.
 3. A equipe consulta o status pela lista do SharePoint, já que ela é a preferência pela administração.
 4. Há o envio de notificações automatizadas para cada novo item criado nas listas do sharepoint.
-
-## Demonstração
-
-![Registro de uma solicitação com dados fictícios](imagens/01-solicitacao.png)
-![Consulta do status da solicitação](imagens/02-acompanhamento.png)
