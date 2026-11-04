@@ -9,6 +9,7 @@ Sou bacharel em Gestão da Informação pela **UFPR**, curso pós-graduação em
 | Projeto | O que a equipe consegue fazer | Tecnologias |
 | --- | --- | --- |
 | [Gestão de diárias, prestação de contas e ressarcimentos](projetos/Controle_Diarias/) | Registrar solicitações, reunir documentos e acompanhar o status com notificações automáticas. | Power Apps, SharePoint e Power Automate |
+| [Empréstimo de Carros](projetos/EmprestimoCarros/) | Ferramenta para solicitar e administrar o uso dos carros para viagens de campo do Lageamb | Power Apps, Sharepoint e Power Automate |
 | [Gestão de Pessoas](Gestao de Pessoas) | Consultar em um só lugar as informações da movimentação do RH. | Power Apps e Sharepoint |
 
 ## Aplicativos que desenvolvi no LAGEAMB
