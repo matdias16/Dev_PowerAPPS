@@ -1,6 +1,6 @@
 # Portfólio de Mateus Dias | Microsoft Power Platform
 
-No LAGEAMB, desenvolvi oito aplicativos internos em **Power Apps** para apoiar rotinas de gestão de pessoas, diárias, compras, projetos de drone e empréstimos. Integrei parte dessas soluções ao **Power Automate**. No aplicativo de diárias, por exemplo, a equipe registra uma solicitação, acompanha seu status e recebe notificações automáticas.
+No LAGEAMB, desenvolvi alguns aplicativos internos em **Power Apps** para apoiar rotinas de gestão de pessoas, diárias, compras, projetos de drone e empréstimos. Integrei parte dessas soluções ao **Power Automate**. No aplicativo de diárias, por exemplo, a equipe registra uma solicitação, acompanha seu status e recebe notificações automáticas.
 
 Sou bacharel em Gestão da Informação pela **UFPR**, curso pós-graduação em Cibersegurança na **PUCPR** e atuo como auditor de TI na **Deloitte**. Minha experiência com sistemas inclui levantar requisitos com usuários, implementar regras de negócio, testar aplicações e apoiar as equipes durante a implantação.
 
@@ -8,19 +8,16 @@ Sou bacharel em Gestão da Informação pela **UFPR**, curso pós-graduação em
 
 | Projeto | O que a equipe consegue fazer | Tecnologias |
 | --- | --- | --- |
-| [Gestão de diárias, prestação de contas e ressarcimentos](projetos/diarias-ressarcimentos/) | Registrar solicitações, reunir documentos e acompanhar o status com notificações automáticas. | Power Apps, SharePoint e Power Automate |
-| [Controle de kits e periféricos](projetos/controle-kits-perifericos/) | Cadastrar itens, consultar a disponibilidade, reservar equipamentos e registrar retiradas. | Power Apps e SharePoint |
-| [Orçamento de drone](projetos/orcamento-drone/) | Elaborar orçamentos e organizar informações sobre equipamentos e operações com drones. | Power Apps, SharePoint e Power Automate |
-| [Gestão de Pessoas](projetos/Gestao de Pessoas/) | Consultar em um só lugar as informações da movimentação do RH. | Power Apps e Sharepoint |
+| [Gestão de diárias, prestação de contas e ressarcimentos](projetos/Controle_Diarias/) | Registrar solicitações, reunir documentos e acompanhar o status com notificações automáticas. | Power Apps, SharePoint e Power Automate |
+| [Gestão de Pessoas](Gestao de Pessoas) | Consultar em um só lugar as informações da movimentação do RH. | Power Apps e Sharepoint |
 
 ## Aplicativos que desenvolvi no LAGEAMB
 
 | Frente de trabalho | Aplicativos |
 | --- | --- |
-| Pessoas | LAGEAMB Gestão de Pessoas · LAGEAMB Cadastro de Colaboradores · Aplicativo de Aniversários |
+| Pessoas | LAGEAMB Gestão de Pessoas|
 | Administração | Controle Diárias · LAGEAMB Compras |
-| Projetos | Projetos de Drone |
-| Empréstimos | LAGEAMB Empréstimo Geodésia · LAGEAMB Empréstimo Carros |
+| Empréstimos | LAGEAMB Empréstimo Carros |
 
 ## Como construo as soluções
 
